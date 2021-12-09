@@ -6,14 +6,14 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-12-09T15:01:02+00:00"
+      "last_modified": "2021-12-09T15:32:41+00:00"
     },
     {
       "path": "index.html",
       "title": "Julien Migozzi",
       "author": [],
       "contents": "\n\n          \n          \n          \n          \n          \n          Home\n          CV\n          Research\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Julien Migozzi\n            \n            \n              \n                \n                    \n                      \n                        \n                    \n                  \n                                    \n                    \n                      \n                        \n                    \n                  \n                                    \n                    \n                      \n                        \n                    \n                  \n                                  \n            \n          \n        \n        \n\n          \n            \n            \n            \n            I am Research Associate at the University of Oxford in the School of the Geography and the Environment, for the ERC program “Cities in Global Financial Networks”.\n            As an urban and economic geographer, my research interests lie at the intersection of financial geography, urban studies and economic sociology.\n            My work explores on how real estate technologies and finance reconfigure housing markets and renew forms and processes of urban segregation, focusing on post-apartheid South Africa.\n            I use mixed methods that combines qualitative approaches (interview, participant-observation) with computational and spatial analysis, relying on open source tools such as R or Qgis.\n            I also occasionally write - and tweet - about rugby.\n            \n            \n            .columnname {\n              font-size: 1.4rem; \n              font-weight: 600;\n            }\n            .grad-item {\n              list-style: none; \n              background-image: url(graduation-cap-solid.png); \n              background-repeat: no-repeat;  \n              background-size: 1.2rem; \n              padding-left: 2rem;\n            }\n            .grad-location {\n              font-size: 0.8rem;\n              color: grey;\n            }\n            \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Julien Migozzi\n            \n            \n              \n                \n                                    \n                    \n                      \n                  \n                                    \n                    \n                      \n                  \n                                    \n                    \n                      \n                  \n                                  \n              \n            \n            \n              \n              \n              \n              I am Research Associate at the University of Oxford in the School of the Geography and the Environment, for the ERC program “Cities in Global Financial Networks”.\n              As an urban and economic geographer, my research interests lie at the intersection of financial geography, urban studies and economic sociology.\n              My work explores on how real estate technologies and finance reconfigure housing markets and renew forms and processes of urban segregation, focusing on post-apartheid South Africa.\n              I use mixed methods that combines qualitative approaches (interview, participant-observation) with computational and spatial analysis, relying on open source tools such as R or Qgis.\n              I also occasionally write - and tweet - about rugby.\n              \n              \n              .columnname {\n                font-size: 1.4rem; \n                font-weight: 600;\n              }\n              .grad-item {\n                list-style: none; \n                background-image: url(graduation-cap-solid.png); \n                background-repeat: no-repeat;  \n                background-size: 1.2rem; \n                padding-left: 2rem;\n              }\n              .grad-location {\n                font-size: 0.8rem;\n                color: grey;\n              }\n              \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2021-12-09T15:01:03+00:00"
+      "last_modified": "2021-12-09T15:32:42+00:00"
     },
     {
       "path": "research.html",
@@ -21,7 +21,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-12-09T15:01:05+00:00"
+      "last_modified": "2021-12-09T15:32:44+00:00"
     }
   ],
   "collections": []
