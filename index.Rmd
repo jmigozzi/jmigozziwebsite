@@ -5,7 +5,7 @@ links:
   - label: '`r fontawesome::fa("twitter")`'
     url: "https://twitter.com/JulienMigozzi"
   - label: '`r icons::academicons("google-scholar")`'
-    url: "https://jeagleson.medium.com/"
+    url: "https://scholar.google.fr/citations?user=TOQMW10AAAAJ&hl=fr"
   - label: '`r fontawesome::fa("envelope")`'
     url: "mailto:julien.migozzi@ouce.ox.ac.uk"
 output:
@@ -35,9 +35,21 @@ cat(paste(trestles_mod, collapse = "\n"), file = system.file("pandoc_templates/t
               package = "postcards"))
 ```
 
-<br>
 
-I am Research Associate at the University of Oxford in the [School of the Geography and the Environment](https://www.geog.ox.ac.uk/staff/jmigozzi.html), for the ERC program "[Cities in Global Financial Networks](https://www.citynet21.org/)".
+<style> 
+p
+{
+    width:700px; 
+    word-wrap:break-word;
+    text-align:justify;
+}
+</style>
+
+<br><font size="4"><p>
+
+ 
+
+My name is Julien Migozzi and I am a Research Associate in the [School of the Geography and the Environment](https://www.geog.ox.ac.uk/staff/jmigozzi.html) at the University of Oxford, as a member of the ERC project "[Cities in Global Financial Networks](https://www.citynet21.org/)".
 
 As an urban and economic geographer, my research interests lie at the intersection of financial geography, urban studies and economic sociology. 
 
@@ -45,27 +57,11 @@ My work explores on how real estate technologies and finance reconfigure housing
 
 I use mixed methods that combines qualitative approaches (interview, participant-observation) with computational and spatial analysis, relying on open source tools such as R or Qgis.
 
-I also occasionally write - and tweet - about [rugby](https://youtu.be/zoLDy8VTD0k?t=587). 
+Prior to joining the University of Oxford, I held appointments at the Ecole Normale Supérieure in Paris. I earned my MA degrees in Geography from the Ecole Normale Supérieure de Lyon and my PD from the University of Grenoble Alpes.
 
+I also occasionally write - and tweet - about rugby, especially when magic [happens](https://youtu.be/zoLDy8VTD0k?t=587). 
 
-<br>
+</p>
+</font><br>
 
-
-```{css, echo = FALSE}
-.columnname {
-  font-size: 1.4rem; 
-  font-weight: 600;
-}
-.grad-item {
-  list-style: none; 
-  background-image: url(graduation-cap-solid.png); 
-  background-repeat: no-repeat;  
-  background-size: 1.2rem; 
-  padding-left: 2rem;
-}
-.grad-location {
-  font-size: 0.8rem;
-  color: grey;
-}
-```
 
