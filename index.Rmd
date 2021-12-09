@@ -1,18 +1,71 @@
 ---
 title: "Julien Migozzi"
-description: |
-  Work in progress
+image: "julien.png"
+links:
+  - label: '`r fontawesome::fa("twitter")`'
+    url: "https://twitter.com/JulienMigozzi"
+  - label: '`r icons::academicons("google-scholar")`'
+    url: "https://jeagleson.medium.com/"
+  - label: '`r fontawesome::fa("envelope")`'
+    url: "mailto:julien.migozzi@ouce.ox.ac.uk"
+output:
+  postcards::trestles
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+<!-- The postcard had a useless second scrollbar (in addition to the big one of distill). For some reason, I couldn't remove it with the CSS in custom.css. My only solution is to modify the source of the postcards::trestle template to remove this scrollbar. -->
+<!-- Same for font family -->
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+```{r, include = FALSE}
+trestles_orig <- readLines(
+  system.file("pandoc_templates/trestles.html",
+              package = "postcards")
+)
+trestles_mod <- trestles_orig
+trestles_mod[
+  which(
+    grepl(
+      'class="d-flex flex-column col px-5 align-items-center align-self-center mh-100" style="overflow-y: scroll;"',
+      trestles_mod
+    )
+  )
+] <- '<div class="d-flex flex-column col px-5 align-items-center align-self-center mh-100" style="overflow-y: none;">'
+trestles_mod <- gsub("'Roboto Slab'", '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif', trestles_mod)
+cat(paste(trestles_mod, collapse = "\n"), file = system.file("pandoc_templates/trestles.html",
+              package = "postcards"))
+```
 
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
+<br>
 
+I am Research Associate at the University of Oxford in the [School of the Geography and the Environment](https://www.geog.ox.ac.uk/staff/jmigozzi.html), for the ERC program "[Cities in Global Financial Networks](https://www.citynet21.org/)".
+
+As an urban and economic geographer, my research interests lie at the intersection of financial geography, urban studies and economic sociology. 
+
+My work explores on how real estate technologies and finance reconfigure housing markets and renew forms and processes of urban segregation, focusing on post-apartheid South Africa.
+
+I use mixed methods that combines qualitative approaches (interview, participant-observation) with computational and spatial analysis, relying on open source tools such as R or Qgis.
+
+I also occasionally write - and tweet - about [rugby](https://youtu.be/zoLDy8VTD0k?t=587). 
+
+
+<br>
+
+
+```{css, echo = FALSE}
+.columnname {
+  font-size: 1.4rem; 
+  font-weight: 600;
+}
+.grad-item {
+  list-style: none; 
+  background-image: url(graduation-cap-solid.png); 
+  background-repeat: no-repeat;  
+  background-size: 1.2rem; 
+  padding-left: 2rem;
+}
+.grad-location {
+  font-size: 0.8rem;
+  color: grey;
+}
 ```
 
