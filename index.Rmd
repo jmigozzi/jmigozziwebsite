@@ -35,17 +35,20 @@ cat(paste(trestles_mod, collapse = "\n"), file = system.file("pandoc_templates/t
               package = "postcards"))
 ```
 
+<center>
+![](assets/CT.png){width=75%}
+<center>
 
 <style> 
 p
 {
-    width:700px; 
+    width:730px; 
     word-wrap:break-word;
     text-align:justify;
 }
 </style>
 
-<br><font size="4"><p>
+<br><font size="3"><p>
 
  
 

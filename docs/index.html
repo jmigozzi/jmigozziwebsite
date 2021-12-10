@@ -639,6 +639,7 @@
           @import url('https://fonts.googleapis.com/css2?family=Fira+Mono');
           @import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
           @import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+          @import url('https://fonts.googleapis.com/css?family=PT+Sans|PT+Serif|Lato:300|Inconsolata|Source+Sans+Pro|Work+Sans:200,300,400,500|Karla:400,400i,700,700i');
           /* This must remain at the top of this file.                 */
 
           :root {
@@ -655,6 +656,7 @@
             --color-text:         #161A1D;
             --color-white:        #FFFFFF;
           }
+
 
           html {
             /*-- Main font sizes --*/
@@ -792,7 +794,17 @@
               color: var(--color-white);
           }
 
+          .distill-site-nav {
+              color: #FEFEFE;
+              background-color: #143D59;
+              font-size: 1.2em;
+              font-weight: 400;
+              min-width: 165px;
+              position: absolute;
+              font-family: 'Karla';
+              letter-spacing: .1em;
 
+          }
 
 
           </style>
@@ -874,15 +886,18 @@
           <div class="my-5" id="content">
             <!-- The postcard had a useless second scrollbar (in addition to the big one of distill). For some reason, I couldn't remove it with the CSS in custom.css. My only solution is to modify the source of the postcards::trestle template to remove this scrollbar. -->
             <!-- Same for font family -->
+            <center>
+            <img src="assets/CT.png" style="width:75.0%" />
+            <center>
             <style> 
             p
             {
-                width:700px; 
+                width:730px; 
                 word-wrap:break-word;
                 text-align:justify;
             }
             </style>
-            <br><font size="4">
+            <br><font size="3">
             <p>
             <p>My name is Julien Migozzi and I am a Research Associate in the <a href="https://www.geog.ox.ac.uk/staff/jmigozzi.html">School of the Geography and the Environment</a> at the University of Oxford, as a member of the ERC project <a href="https://www.citynet21.org/">Cities in Global Financial Networks</a>.</p>
             <p>As an urban and economic geographer, my research interests lie at the intersection of financial geography, urban studies and economic sociology.</p>
@@ -935,15 +950,18 @@
             <div class="p pt-4 px-5">
               <!-- The postcard had a useless second scrollbar (in addition to the big one of distill). For some reason, I couldn't remove it with the CSS in custom.css. My only solution is to modify the source of the postcards::trestle template to remove this scrollbar. -->
               <!-- Same for font family -->
+              <center>
+              <img src="assets/CT.png" style="width:75.0%" />
+              <center>
               <style> 
               p
               {
-                  width:700px; 
+                  width:730px; 
                   word-wrap:break-word;
                   text-align:justify;
               }
               </style>
-              <br><font size="4">
+              <br><font size="3">
               <p>
               <p>My name is Julien Migozzi and I am a Research Associate in the <a href="https://www.geog.ox.ac.uk/staff/jmigozzi.html">School of the Geography and the Environment</a> at the University of Oxford, as a member of the ERC project <a href="https://www.citynet21.org/">Cities in Global Financial Networks</a>.</p>
               <p>As an urban and economic geographer, my research interests lie at the intersection of financial geography, urban studies and economic sociology.</p>
