@@ -1,10 +1,28 @@
 ---
 title: "Research"
-description: |
-  Some additional details about the website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+<style>
+p {
+  text-align: justify;
+  
+}
+</style>
 
+
+
+## Dissertation
+
+My PhD thesis examined how the financialization and the digitalization of the housing market renewed patterns of social stratification and urban segregation in Cape Town, South Africa. Using in-depth fieldwork, spatial analysis and computational methods, I demonstrated how the rise of credit scoring technologies and the spatial allocation of mortgages operate as critical market forces in the making of the middle class and the uneven desegregation of the post-apartheid city.
+
+This thesis was awarded: 
+
+- the 2021 [National Doctoral Prize in Urban Studies](http://www.urbanisme-puca.gouv.fr/prix-de-these-sur-la-ville-2021-a2141.html) by the PUCA-APERAU-Caisse des Dépôts.
+- the 2021 [National Dissertation Award in Geography](https://www.cnfg.fr/vie-du-comite/prix-de-these-du-cnfg/) by the French National Committee of  Geography (CNFG).
+- a Special mention of the jury for the 2021 [Humanities and social sciences PSL Dissertation Prize](https://psl.eu/en/news/winners-2021-humanities-and-social-sciences-shs-psl-dissertation-prize).
+
+
+## Publications
+
+
+All my publications are available through my [CV](files/Julien_CV.pdf) or through [Google Scholar](https://scholar.google.fr/citations?user=TOQMW10AAAAJ&hl=fr)

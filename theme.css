@@ -33,7 +33,7 @@
 html {
   /*-- Main font sizes --*/
   --title-size:      50px;
-  --body-size:       1.06rem;
+  --body-size:       1.075rem;
   --code-size:       14px;
   --aside-size:      12px;
   --fig-cap-size:    13px;
@@ -69,7 +69,7 @@ d-byline {
 d-appendix {
   --heading-size:    15px;
   --heading-color:   rgba(0, 0, 0, 0.65);
-  --text-size:       0.8em;
+  --text-size:       1.075rem; 
   --text-color:      rgba(0, 0, 0, 0.5);
 }
 
@@ -77,12 +77,11 @@ d-appendix {
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-  --title-size:       18px;
+  --title-size:       30px;
   --text-color:       var(--color-primary);
-  --text-size:        18px;
+  --text-size:        30px;
   --hover-color:      var(--color-secondary);
   --bkgd-color:       var(--color-background);
-  font-weight:        500;
 }
 
 .distill-site-footer {
@@ -91,6 +90,9 @@ d-appendix {
   --hover-color:      var(--color-white);
   --bkgd-color:       var(--color-primary);
 }
+
+/* Change appearance of headers */
+
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
@@ -164,4 +166,5 @@ d-article a:hover, a:focus {
     color: var(--color-white);
 }
 
-/* Change appearance of headers */
+
+
