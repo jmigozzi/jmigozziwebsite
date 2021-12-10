@@ -13,7 +13,9 @@ p {
 
 ## Dissertation
 
-My PhD thesis examined how the financialization and the digitalization of the housing market renewed patterns of social stratification and urban segregation in Cape Town, South Africa. Using in-depth fieldwork, spatial analysis and computational methods, I demonstrated how the rise of credit scoring technologies and the spatial allocation of mortgages operate as critical market forces in the making of the middle class and the uneven desegregation of the post-apartheid city.
+My dissertation examined how the digitalization of the real estate market enabled the financialization of housing,  thereby renewing patterns of social stratification and processes of urban segregation in Cape Town, South Africa. Using in-depth fieldwork, spatial analysis and computational methods,I demonstrated how the housing market was reconfigured as a continuous flow of data through the adoption of digital platforms and the progressive making of housing as a financial asset, on both the buyer's and rental markets. In particular, the thesis highlighted how the adoption of credit scoring technologies and the spatial allocation of mortgages became critical market forces for the making of the middle class while driving neighborhood change in the post-apartheid city.
+
+I use mixed methods combining qualitative and quantitative approaches. Over 18 months of fieldwork, I conducted interviews with market professionals and households, while engaged in participant-observation within a local estate agency in Khayelitsha, Cape Town's largest black township. In parallel, I built a database of 900,000 residential sales to measure and map the evolution of prices and mortgages across the urban space.
 
 This thesis was awarded: 
 
