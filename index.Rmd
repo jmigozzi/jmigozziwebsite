@@ -52,7 +52,7 @@ p
 
  
 
-My name is Julien Migozzi and I am a Research Associate in the [School of the Geography and the Environment](https://www.geog.ox.ac.uk/staff/jmigozzi.html) at the University of Oxford, as a member of the ERC project [Cities in Global Financial Networks](https://www.citynet21.org/).
+My name is Julien Migozzi and I am a Research Associate in the [School of Geography and the Environment](https://www.geog.ox.ac.uk/staff/jmigozzi.html) at the University of Oxford, as a member of the ERC project [Cities in Global Financial Networks](https://www.citynet21.org/).
 
 As an urban and economic geographer, my research interests lie at the intersection of financial geography, urban studies and economic sociology. 
 
@@ -60,7 +60,7 @@ My work explores on how real estate technologies and finance reconfigure housing
 
 I use mixed methods that combines qualitative approaches (interview, participant-observation) with computational and spatial analysis, relying on open source tools such as R or QGIS.
 
-Prior to joining the University of Oxford, I held appointments at the Ecole Normale Supérieure in Paris. I earned my MA degree in Geography from the Ecole Normale Supérieure de Lyon and my PhD from the University of Grenoble Alpes. I'm a Research Associate at the Research Labs [Géographie-cités](https://geographie-cites.cnrs.fr/en/geographie-cites/) and [PACTE](https://www.pacte-grenoble.fr/en).
+Prior to joining the University of Oxford, I held appointments at the Ecole Normale Supérieure in Paris. I earned my MA degree in Geography from the Ecole Normale Supérieure de Lyon and my PhD from the University of Grenoble Alpes. I'm also a Research Associate at the Research Labs [Géographie-cités](https://geographie-cites.cnrs.fr/en/geographie-cites/) and [PACTE](https://www.pacte-grenoble.fr/en).
 
 I also occasionally write - and tweet - about rugby, especially when magic [happens](https://youtu.be/zoLDy8VTD0k?t=587). 
 
