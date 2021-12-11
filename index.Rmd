@@ -1,6 +1,6 @@
 ---
 title: "Julien Migozzi"
-image: "julien.png"
+image: "assets/julien.png"
 links:
   - label: '`r fontawesome::fa("twitter")`'
     url: "https://twitter.com/JulienMigozzi"
@@ -16,7 +16,10 @@ site: distill::distill_website
 <!-- The postcard had a useless second scrollbar (in addition to the big one of distill). For some reason, I couldn't remove it with the CSS in custom.css. My only solution is to modify the source of the postcards::trestle template to remove this scrollbar. -->
 <!-- Same for font family -->
 
-```{r, include = FALSE}
+
+
+
+```{r, include = FALSE, eval = F}
 trestles_orig <- readLines(
   system.file("pandoc_templates/trestles.html",
               package = "postcards")
@@ -35,14 +38,16 @@ cat(paste(trestles_mod, collapse = "\n"), file = system.file("pandoc_templates/t
               package = "postcards"))
 ```
 
+
 <center>
-![](assets/CT.png){width=75%}
+![](assets/CT.png){width=87%}
 <center>
+
 
 <style> 
 p
 {
-    width:730px; 
+    width:850px; 
     word-wrap:break-word;
     text-align:justify;
 }

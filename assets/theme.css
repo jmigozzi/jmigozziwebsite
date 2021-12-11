@@ -34,7 +34,7 @@
 
 html {
   /*-- Main font sizes --*/
-  --title-size:      50px;
+  --title-size:      18px;
   --body-size:       1.075rem;
   --code-size:       14px;
   --aside-size:      12px;
@@ -178,5 +178,21 @@ d-article a:hover, a:focus {
     font-family: 'Karla';
     letter-spacing: .1em;
 
+}
+
+/* title of page*/
+
+d-title h1{
+font-size: 2.1em;
+font-family: 'Work Sans';
+font-weight: 300;
+}
+
+/* title of article */
+
+d-article h1 {
+  font-size: 1.8em;
+  font-family: 'Work Sans', 'Source Sans Pro', 'PT Sans';
+  font-weight: 300;
 }
 
