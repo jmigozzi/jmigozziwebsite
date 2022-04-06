@@ -1,0 +1,69 @@
+---
+title: "Places"
+output:
+  distill::distill_article:
+    toc: true
+---
+
+<style>
+p {
+  font-size: 0.7em;
+  line-height: 1;
+}
+
+</style>
+
+# South Africa
+
+:::: {style="display: grid; grid-template-columns: 100% 40%; grid-column-gap: 1%; "}
+::: {}
+![](assets/CT.png){width=100%}
+:::
+
+::: {}
+Parklands, Cape Town.
+
+May 2018.
+:::
+::::
+
+# Moçambique
+
+:::: {style="display: grid; grid-template-columns: 100% 30%; grid-column-gap: 1%; "}
+::: {}
+![](assets/pics/IMG_0791.JPG){width=100%}
+:::
+
+::: {}
+Parque Nacional das Quirimbas.
+
+August 2016.
+:::
+
+::: {}
+![](assets/pics/IMG_0723.JPG){width=100%}
+:::
+
+::: {}
+Parque Nacional das Quirimbas.
+
+August 2016.
+:::
+::::
+
+
+# United States
+
+:::: {style="display: grid; grid-template-columns: 100% 30%; grid-column-gap: 1%; "}
+::: {}
+![](assets/pics/IMG_2251.JPG){width=100%}
+:::
+
+::: {}
+New Orleans.
+
+April 2018.
+:::
+
+
+::::
